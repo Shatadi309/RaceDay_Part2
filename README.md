@@ -23,7 +23,7 @@ This is a C# ASP.NET Core application designed to manage race day events, regist
 3. Run `dotnet restore`
 
 ## Usage
-Run the application using `dotnet run` or press F5 in Visual Studio.
+Run the application using `dotnet run`.
 
 ## Project Structure
 - **Controllers**: Handles HTTP requests
@@ -39,5 +39,7 @@ Pull requests are welcome. For major changes, please open an issue first.
 Acknowledgements
 -Kgahliso Mafane
 -Deepseek
+
+
 
 <img width="1920" height="810" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/f89c8c4f-293a-4b23-a9af-dbeceac4f461" />
