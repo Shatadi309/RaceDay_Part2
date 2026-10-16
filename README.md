@@ -21,6 +21,7 @@ This is a C# ASP.NET Core application designed to manage race day events, regist
 1. Clone the repository
 2. Navigate to the project folder
 3. Run `dotnet restore`
+4. Create a workflow based on the code
 
 ## Usage
 Run the application using `dotnet run`.
