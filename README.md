@@ -37,9 +37,13 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Acknowledgements
+**Acknowledgements
 -Kgahliso Mafane
 -Deepseek
+
+**People to contact
+-The organizers 
+-The shareholders 
 
 
 
