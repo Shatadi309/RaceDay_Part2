@@ -1,6 +1,7 @@
 # RaceDay_Part2
 ## Project Overview
 
+[(https://youtu.be/c94QECSPKcs)]
 This is a C# ASP.NET Core application designed to manage race day events, registrations, and results.
 
 ## Features
@@ -12,6 +13,8 @@ This is a C# ASP.NET Core application designed to manage race day events, regist
 - C#
 - ASP.NET Core MVC
 - Entity Framework Core that will work with code
+
+- 
 
 - ## Prerequisites
 - .NET 6.0 SDK or later
