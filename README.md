@@ -11,7 +11,7 @@ This is a C# ASP.NET Core application designed to manage race day events, regist
 - ## Technologies Used
 - C#
 - ASP.NET Core MVC
-- Entity Framework Core
+- Entity Framework Core that will work with code
 
 - ## Prerequisites
 - .NET 6.0 SDK or later
